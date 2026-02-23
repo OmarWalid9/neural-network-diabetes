@@ -53,6 +53,8 @@ Input (8 features)
 ## Repository Structure
 ```
 neural-network-diabetes/
+├── NN.ipynb
+├── diabetes.csv
 ├── pima_diabetes_nn.ipynb    # Complete notebook (load → explore → train → evaluate)
 ├── README.md                  # This file
 └── results/
