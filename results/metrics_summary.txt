@@ -9,15 +9,15 @@ Epochs trained: 28
 
 PERFORMANCE METRICS
 ==================================================
-Test Accuracy:  74.68%
-Test Loss:      0.4911
-Precision:      0.6531
-Recall:         0.5926
-F1-Score:       0.6214
+Test Accuracy:  74.03%
+Test Loss:      0.4946
+Precision:      0.6296
+Recall:         0.6296
+F1-Score:       0.6296
 
 CONFUSION MATRIX
 ==================================================
-True Negatives  (correctly predicted no diabetes): 83
-False Positives (predicted diabetes, actually no): 17
-False Negatives (missed diabetes cases):           22
-True Positives  (correctly predicted diabetes):    32
+True Negatives  (correctly predicted no diabetes): 80
+False Positives (predicted diabetes, actually no): 20
+False Negatives (missed diabetes cases):           20
+True Positives  (correctly predicted diabetes):    34
