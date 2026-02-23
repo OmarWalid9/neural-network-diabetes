@@ -1,0 +1,23 @@
+PIMA INDIANS DIABETES - NEURAL NETWORK RESULTS
+==================================================
+Dataset:        Pima Indians Diabetes (Kaggle)
+Samples:        768 patients
+Features:       8 clinical measurements
+Train/Test:     614 / 154
+Architecture:   64 -> 32 -> 16 -> 1 (with Dropout)
+Epochs trained: 28
+
+PERFORMANCE METRICS
+==================================================
+Test Accuracy:  74.68%
+Test Loss:      0.4911
+Precision:      0.6531
+Recall:         0.5926
+F1-Score:       0.6214
+
+CONFUSION MATRIX
+==================================================
+True Negatives  (correctly predicted no diabetes): 83
+False Positives (predicted diabetes, actually no): 17
+False Negatives (missed diabetes cases):           22
+True Positives  (correctly predicted diabetes):    32
